@@ -64,8 +64,8 @@ A solução é dividida em módulos robustos de automação que processam a entr
 - **Módulo de Saída e Armazenamento:** Atualização de planilhas de controle e salvamento de arquivos no Google Drive.
 
 <p align="center">
-  <img src="assets/fluxo_1.jpg" alt="Envio de formulário - HTML" width="35%"/>
-  <img src="assets/fluxo_2.jpg" alt="Fluxo completo da Automação" width="35%"/>
+  <img src="assets/fluxo_1.jpg" alt="Envio de formulário - HTML" width="45%"/>
+  <img src="assets/fluxo_2.jpg" alt="Fluxo completo da Automação" width="55%"/>
 </p>
 
 ---
