@@ -63,11 +63,6 @@ A solução é dividida em módulos robustos de automação que processam a entr
 - **Módulo de Processamento:** Blocos de código em JavaScript e condicionais (`Switch`) para qualificação de perfis.
 - **Módulo de Saída e Armazenamento:** Atualização de planilhas de controle e salvamento de arquivos no Google Drive.
 
-<p align="center">
-  <img src="assets/fluxo_1.jpg" alt="Envio de formulário - HTML" width="45%"/>
-  <img src="assets/fluxo_2.jpg" alt="Fluxo completo da Automação" width="55%"/>
-</p>
-
 ---
 
 ## 🚀 Como Executar o Projeto
