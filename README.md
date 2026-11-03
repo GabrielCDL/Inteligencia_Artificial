@@ -38,16 +38,19 @@ O sistema foi orquestrado utilizando **n8n** como motor de fluxos de automação
 O fluxo recepciona o usuário no WhatsApp e disponibiliza um formulário interativo para coleta de dados de crédito.
 
 <p align="center">
-  <img src="caminho/para/whatsapp-inicio.jpg" alt="Atendimento WhatsApp" width="45%"/>
-  <img src="caminho/para/formulario-pre-analise.jpg" alt="Formulário de Pré-Análise" width="45%"/>
+  <img src="assets/atendimento_1.jpeg" alt="Atendimento WhatsApp" width="45%"/>
+  <img src="assets/atendimento_2.jpeg" alt="Formulário de Pré-Análise" width="45%"/>
 </p>
 
 ### 2. Simulação de Financiamento & Gestão de Documentos
 Após o preenchimento, o sistema calcula o potencial de financiamento/subsídio e direciona o usuário para o envio seguro de documentos.
 
 <p align="center">
-  <img src="caminho/para/simulacao-resultado.jpg" alt="Resultado da Simulação" width="45%"/>
-  <img src="caminho/para/upload-documentos.jpg" alt="Upload de Documentos" width="45%"/>
+  <img src="assets/atendimento_6.jpeg" alt="Resultado da Simulação" width="45%"/>
+  <img src="assets/atendimento_10.jpeg" alt="Resultado da Simulação 2" width="45%"/>
+  <img src="assets/atendimento_7.jpeg" alt="Upload de Documentos" width="45%"/>
+  <img src="assets/atendimento_8.jpeg" alt="Confirmação de Upload" width="45%"/>
+  <img src="assets/atendimento_11.jpeg" alt="Resposta Final" width="45%"/>
 </p>
 
 ---
@@ -59,6 +62,11 @@ A solução é dividida em módulos robustos de automação que processam a entr
 - **Módulo de Entrada:** Recepção de requisições via webhook de formulários e mensagens do WhatsApp.
 - **Módulo de Processamento:** Blocos de código em JavaScript e condicionais (`Switch`) para qualificação de perfis.
 - **Módulo de Saída e Armazenamento:** Atualização de planilhas de controle e salvamento de arquivos no Google Drive.
+
+<p align="center">
+  <img src="assets/fluxo_1.jpeg" alt="Envio de formulário - HTML" width="45%"/>
+  <img src="assets/fluxo_2.jpeg" alt="Fluxo completo da Automação" width="45%"/>
+</p>
 
 ---
 
